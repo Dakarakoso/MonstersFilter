@@ -9,4 +9,4 @@ You can check the application here: https://github.com/Dakarakoso/MonstersFilter
 
 # Tools
 
-- React native
+- React
